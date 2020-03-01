@@ -2,7 +2,7 @@
 [![npm version](https://badge.fury.io/js/peer.svg)](https://www.npmjs.com/package/peer)
 [![Downloads](https://img.shields.io/npm/dm/peer.svg)](https://www.npmjs.com/package/peer)
 
-# PeerServer: A server for PeerJS #
+# Fork of PeerServer: A server for PeerJS. Original -> https://github.com/peers/peerjs-server #
 
 PeerServer helps broker connections between PeerJS clients. Data is not proxied through the server.
 
