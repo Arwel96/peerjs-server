@@ -4,11 +4,11 @@
   "description": "PeerJS server component",
   "main": "dist/peerjs.server.min.js",
   "bin": {
-    "peerjs": "./bin/peerjs"
+    "peerjs": "bin/peerjs"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/peers/peerjs-server.git"
+    "url": "git@github.com:Arwel96/peerjs-server.git"
   },
   "author": "Michelle Bu, Eric Zhang",
   "license": "MIT",
@@ -57,5 +57,15 @@
   },
   "engines": {
     "node": ">=10"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/peers/peerjs-server/issues"
+  },
+  "homepage": "https://github.com/peers/peerjs-server#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "peer"
+  ]
 }
